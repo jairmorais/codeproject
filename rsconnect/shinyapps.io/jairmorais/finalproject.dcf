@@ -1,0 +1,12 @@
+name: finalproject
+title: finalproject
+username: jairmorais
+account: jairmorais
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10107635
+bundleId: 7769702
+url: https://jairmorais.shinyapps.io/finalproject/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
